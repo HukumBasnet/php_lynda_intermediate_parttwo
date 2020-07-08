@@ -1,5 +1,0 @@
-{
-    "require": {
-        "mockery/mockery": "~0.9"
-    }
-}
